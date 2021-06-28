@@ -1,6 +1,6 @@
-### Hi there Ola tudo bem? 👋
+### Olá tudo bem? 👋
 #### Me chamo Adelmon
-##### Sou un desenvolvedor mobile jr
+##### Sou desenvolvedor em desenvolvimento. 
 
 -----
 <div>

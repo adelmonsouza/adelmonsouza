@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi there Ola tudo bem? 👋
+#### Me chamo Adelmon
+##### Sou un desenvolvedor mobile jr
 
-<!--
-**adelmonsouza/adelmonsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=adelmonsouza&show_icons=true&theme=tokyonight">
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelmonsouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+## Contato
+
+<a href="https://www.linkedin.com/in/adelmonsouza/">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigh="50" width="60">
+
+</a>
+
+## Linguagens
+
+<div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" align="center" heigh="50" width="60">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" align="center" heigh="50" width="60">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" heigh="50" width="60">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" heigh="50" width="60">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigh="50" width="60">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" heigh="50" width="60">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" align="center" heigh="50" width="60">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="center" heigh="50" width="60">
+
+<div>

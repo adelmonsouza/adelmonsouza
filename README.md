@@ -1,6 +1,6 @@
-### Olá tudo bem? 👋
-#### Me chamo Adelmon
-##### - Dev Mobile  - Boot Camp | Santander 
+#### Hello, World! 👋
+#### My name is Adelmon
+##### :computer: Dev Mobile  - Boot Camp | Santander 
 ##### :e-mail:  [adelmonssilva@gmail.com](mailto:adelmonssilva@gmail.com)
 
 -----

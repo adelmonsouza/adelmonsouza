@@ -1,6 +1,6 @@
 #### Hello, World! 👋
 #### My name is Adelmon
-##### :computer: Just begin Developer 
+##### :computer: Just a junior developer
 ##### :e-mail:  [adelmon.souza@outlook.com](mailto:adelmon.souza@outlook.com)
 
 -----

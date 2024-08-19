@@ -48,5 +48,6 @@ These are some of the technologies and tools that I work with:
 - [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cfe52b02f133848b3374397f618babaa807151332e658d5c94f484d8c916302e/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d4c6574696369614842482e4c657469636961484248"><img src="https://camo.githubusercontent.com/cfe52b02f133848b3374397f618babaa807151332e658d5c94f484d8c916302e/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d4c6574696369614842482e4c657469636961484248" alt="Visitante" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=LeticiaHBH.LeticiaHBH" style="max-width: 100%;"></a>
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adelmonsouza) or check out my work on [GitHub](https://github.com/adelmonsouza).

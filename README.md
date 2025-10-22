@@ -1,41 +1,33 @@
 # 👋 Hi, I'm Adelmon Souza
 
-🎯 **Junior Java Developer | Spring Boot | PostgreSQL | REST APIs | Docker | React (learning)**  
-💼 Currently based in **Portugal**, open to **remote and on-site opportunities in Europe**.
+🎯 **Junior Java Developer — Spring Boot, PostgreSQL, REST APIs, Docker, React (learning)**  
+📍 Portugal • 🌍 Open to EU/Remote • 🇬🇧 EN • 🇵🇹 PT • 🇫🇷 FR
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Demo / Code |
-|----------|--------------|-------|--------------|
-| 🧩 [ToDo API](https://github.com/adelmonsouza/todo-api) | Secure REST API with JWT Auth, Flyway Migrations & Swagger Docs | Java, Spring Boot, PostgreSQL, Docker | [Docs ↗](https://todo-api.onrender.com/swagger-ui) |
-| 🦅 [Desafio das Águias](https://github.com/adelmonsouza/desafio-das-aguias) | Family Financial Education App | Spring Boot + React | [Preview ↗](https://desafio-das-aguias.onrender.com) |
-| 📘 [DevJournal API](https://github.com/adelmonsouza/devjournal-api) | Learning Tracker API with CI/CD pipeline | Java, Spring Boot, PostgreSQL, GitHub Actions | — |
-
----
-
-### 🧠 About Me
-
-- 🌱 Currently improving: **Spring Security, JUnit 5, Docker Compose, CI/CD**
-- 🧩 Building: **E-Nouveau**, a startup for educational & financial-tech projects
-- ⚙️ Interested in: **Clean Architecture, Domain-Driven Design, and Microservices**
-- 🗣️ Languages: **Portuguese (native)**, **English (B2)**, **French (A2)**
+## 🚀 Featured Projects
+- 🧩 **ToDo API** — Secure REST API (JWT, Flyway, Swagger, Testcontainers)  
+  Tech: Java 21, Spring Boot, PostgreSQL, Docker • [Code ↗](https://github.com/adelmonsouza/todo-api) • [Docs ↗](https://todo-api.onrender.com/swagger-ui)
+- 🦅 **Desafio das Águias** — Family Financial Education app (API + Web)  
+  Tech: Spring Boot + React • [Code ↗](https://github.com/adelmonsouza/desafio-das-aguias) • [Demo ↗](https://desafio-das-aguias.onrender.com)
+- 📘 **DevJournal API** — Learning tracker + CI/CD (GitHub Actions)  
+  Tech: Spring Boot, PostgreSQL • [Code ↗](https://github.com/adelmonsouza/devjournal-api)
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 What I’m focusing on
+- Spring Security (JWT), JPA performance, JUnit 5, Docker Compose
+- Clean Architecture, DDD essentials, Microservices basics
 
-`Java 21` • `Spring Boot` • `Maven` • `Hibernate` • `PostgreSQL` • `Docker` • `JUnit 5` • `Swagger`  
-`GitHub Actions` • `React` • `HTML` • `CSS` • `JavaScript (ES6)` • `IntelliJ IDEA`
+## 🧰 Toolbox
+`Java 21` · `Spring Boot` · `Maven` · `Hibernate` · `PostgreSQL` · `Docker` · `JUnit 5` · `Testcontainers` · `Swagger` · `GitHub Actions` · `React`
 
 ---
 
-### 🌍 Connect with me
+## 📬 Connect
+[LinkedIn](https://www.linkedin.com/in/adelmonsouza/) · [Email](mailto:contato@enouveau.io) · [Org: E-Nouveau](https://github.com/e-nouveau)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adelmon_Souza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adelmonsouza/)
-[![Email](https://img.shields.io/badge/Email-contato@enouveau.io-red?style=flat&logo=gmail)](mailto:contato@enouveau.io)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E_Nouveau-black?style=flat&logo=github)](https://github.com/e-nouveau)
+> “Ship small, ship often, write it down.”
 
 
 ---

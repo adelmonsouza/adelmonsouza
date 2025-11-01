@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Adelmon Souza
+# 👋 Hi, I'm Adelmon
 
-🎯 **Junior Java Developer — Spring Boot, PostgreSQL, REST APIs, Docker, React (learning)**  
+🌱 Learning: Spring Boot | Microservices | Docker
+💼 Project: BookStore API
+🔗 LinkedIn: linkedin.com/in/adelmonsouza
+  
 📍 Portugal • 🌍 Open to EU/Remote • 🇬🇧 EN • 🇵🇹 PT • 🇫🇷 FR
 
 ---

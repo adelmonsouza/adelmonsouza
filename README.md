@@ -12,11 +12,13 @@
 ## 🚀 Featured Projects
 
 ### 🎯 #30DiasJava Challenge
+
 **30 projetos Java/Spring Boot inspirados em BigTechs**
 
 Building 30 production-ready microservices in 30 days, documenting each journey from architecture to deployment.
 
 **Latest drops:**
+
 - **Day 13** — Feature Flags & Experimentation Platform (LaunchDarkly + Unleash)
 - **Day 12** — Monitoring Service (Prometheus + Grafana + Alertmanager)
 - **Day 11** — Logging Service (SLF4J + Logback + ELK stack)
@@ -27,6 +29,7 @@ Building 30 production-ready microservices in 30 days, documenting each journey 
 ---
 
 ### 🎬 Start Line — Season 1
+
 **Becoming a Developer from Zero**
 
 A cinematic learning experience for beginners. Episodio-based curriculum with hands-on missions, mock interviews, and real artifacts.
@@ -85,6 +88,3 @@ Always open to learn, collaborate and build impactful solutions.
 📩 Let's connect and talk about **Trainee/Graduate opportunities (Java/SAP) in Belgium** or anywhere in the EU.
 
 ---
-
-**Currently building:** Day 14/30 of #30DiasJava — API Gateway & Rate Limiting
-

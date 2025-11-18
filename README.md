@@ -19,10 +19,10 @@ Building 30 production-ready microservices in 30 days, documenting each journey 
 
 **Latest drops:**
 
-- **Day 13** — Feature Flags & Experimentation Platform (LaunchDarkly + Unleash)
-- **Day 12** — Monitoring Service (Prometheus + Grafana + Alertmanager)
-- **Day 11** — Logging Service (SLF4J + Logback + ELK stack)
-- **Day 10** — Reporting Service (Spring Batch + Redis + Self-service exports)
+- **Day 17** — Resilience Patterns & Circuit Breakers (Resilience4j, retry, timeout, rate limiting)
+- **Day 16** — Config Service & Centralized Configuration (Spring Cloud Config, Git backend, encryption)
+- **Day 15** — Caching Strategies (Redis, Caffeine, cache-aside, write-through, TTL inteligente)
+- **Day 14** — API Gateway & Rate Limiting (Centralized gateway, circuit breakers, observability)
 
 🔗 **Series:** [30DiasJava Blog](https://enouveau.io/blog/) | [All Repos](https://github.com/adelmonsouza?tab=repositories&q=30DiasJava)
 
